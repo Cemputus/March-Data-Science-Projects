@@ -20,20 +20,24 @@ Welcome to the **March Projects** repository! This space is dedicated to explori
 
 
 ## 👥 Team
-### Emmanuel Nsubuga  
+
+
+### Anita Namaganda
 **BSc. Data Science and Analytics**  
 Uganda Christian University  
-📧 Email: ensubuga019@gmail.com  
+📧 Email: anitanamaganda04@gmail.com
 
 ### Edube Emmanuel Guloba  
 **BSc. Data Science and Analytics**  
 Uganda Christian University  
 📧 Email: gulobaemmanueledube@gmail.com 
 
-### Anita Namaganda
+### Emmanuel Nsubuga  
 **BSc. Data Science and Analytics**  
 Uganda Christian University  
-📧 Email: anitanamaganda04@gmail.com
+📧 Email: ensubuga019@gmail.com  
+
+
 
 
 ---
